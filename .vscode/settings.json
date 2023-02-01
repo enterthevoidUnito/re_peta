@@ -1,0 +1,4 @@
+{
+    "cmake.configureOnOpen": true,
+    "cmake.sourceDirectory": "${workspaceFolder}/Users/lucab/.vscode/extensions/twxs.cmake-0.0.17/node_modules/peg-cmake/test"
+}
